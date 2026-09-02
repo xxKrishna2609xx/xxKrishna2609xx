@@ -129,13 +129,26 @@ Full-stack application offering intelligent resume parsing, custom section styli
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,ts,dart,bash,js&theme=dark&perline=5"/>
 
-### Web · Frontend · Mobile
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&theme=dark&perline=4"/>
+### Web · Mobile · Architecture
 
-### Backend · Databases · Cloud
-<img src="https://skillicons.dev/icons?i=fastapi,express,nodejs,mongodb,postgres,cloudflare,docker,git,github,vercel&theme=dark&perline=5"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/REST_APIs-0d3b3e?style=for-the-badge&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/Cloudflare_R2-0d3b3e?style=for-the-badge&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/Full_Stack_Dev-0d3b3e?style=for-the-badge&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/Business_Listings-0d3b3e?style=for-the-badge&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/Android_Apps-0d3b3e?style=for-the-badge&logoColor=2DD4BF"/>
+
+### Backend · Data
+<img src="https://skillicons.dev/icons?i=fastapi,express,nodejs,postgres,firebase,mongodb&theme=dark&perline=6"/>
+
+### Mobile · Frontend
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind&theme=dark&perline=4"/>
+
+### Cloud · DevOps
+<img src="https://skillicons.dev/icons?i=azure,docker,linux,git,github,vscode&theme=dark&perline=6"/>
 
 </div>
 
