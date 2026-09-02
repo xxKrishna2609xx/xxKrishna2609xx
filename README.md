@@ -1,90 +1,205 @@
-<h1 align="center">Hi 👋, I'm Krishna Goyal</h1>
-<h3 align="center">Web Developer Intern at Right Ads Digital | Full Stack & Cross-Platform Developer 🚀</h3>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,35:0a1f2e,70:0d3b3e,100:0a1f2e&height=260&section=header&text=KRISHNA%20GOYAL&fontSize=50&fontColor=e6fffa&animation=fadeIn&fontAlignY=42&desc=Web%20Developer%20Intern%20%E2%80%A2%20Full%20Stack%20%26%20Mobile%20Dev%20%E2%80%A2%20Building%20for%20Production&descAlignY=65&descSize=16&descColor=5eead4"/>
+</div>
 
-<p align="center">
-  <a href="https://krishna-os.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/krishna-goyal-799629265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:krishna26sep@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/xxKrishna2609xx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+<div align="center">
 
----
+```
+[BOOT] initializing krishna_goyal.model...
+[INFO]  role        : Web Developer Intern @ Right Ads Digital
+[INFO]  expertise   : Full-Stack Web Development & Cross-Platform Android Apps
+[INFO]  stack       : React | FastAPI | Dart (Flutter) | MongoDB | Cloudflare R2
+[STATUS] shipping production systems. business listings & mobile apps synced.
+```
 
-### 🚀 About Me
+</div>
 
-- 💼 **Current Role:** Web Developer Intern at **Right Ads Digital**
-- 🛠️ **Recent Impact:** Developed a modern full-stack **Business Listing Website** & its companion **Android Application** during my internship.
-- 🔭 **Currently Working On:** Expanding cross-platform applications and AI-driven web tools.
-- 🌱 **Learning & Exploring:** Advanced FastAPI architectures, Mobile App performance, and Cloud Services (Cloudflare R2).
-- 💬 **Ask Me About:** React, JavaScript/TypeScript, FastAPI, Python, MongoDB, and Flutter (Dart).
-- 🌐 **Interactive Portfolio:** Explore my interactive OS portfolio at [krishna-os.vercel.app](https://krishna-os.vercel.app/)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-<p align="left">
-  <!-- Frameworks & Mobile -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-<p align="left">
-  <!-- Databases & Cloud Tools -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **🏢 Business-Listing-Website** | Modern full-stack local business listing platform built during internship | `React` `FastAPI` `MongoDB` `Cloudflare R2` | [View Code](https://github.com/xxKrishna2609xx/Business-Listing-Website) |
-| **📱 Android-App** | Companion Android application for the local business listing platform | `Dart` `Flutter` | [View Code](https://github.com/xxKrishna2609xx/Android-App) |
-| **🌤️ PyClima-** | Climate analytics dashboard for NetCDF datasets featuring heatmaps & trend analytics | `Python` `Data Analytics` | [View Code](https://github.com/xxKrishna2609xx/PyClima-) |
-| **📄 Ai-Resume** | AI-assisted resume builder and smart resume analytics platform | `TypeScript` `React` | [View Code](https://github.com/xxKrishna2609xx/Ai-Resume) |
-
----
-
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxKrishna2609xx&show_icons=true&theme=radical&count_private=true" alt="Krishna's GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxKrishna2609xx&layout=compact&theme=radical" alt="Top Languages" width="350"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxKrishna2609xx&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Let's Connect!
-
-- 🌐 **Portfolio:** [krishna-os.vercel.app](https://krishna-os.vercel.app/)
-- 💼 **LinkedIn:** [Krishna Goyal](https://www.linkedin.com/in/krishna-goyal-799629265/)
-- 📧 **Email:** [krishna26sep@gmail.com](mailto:krishna26sep@gmail.com)
-- 🐙 **GitHub:** [@xxKrishna2609xx](https://github.com/xxKrishna2609xx)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2200&pause=700&color=2DD4BF&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Building+scalable+full-stack+web+platforms.;Crafted+Business+Listing+Website+%26+Android+App+at+Right+Ads+Digital.;React+%7C+FastAPI+%7C+Flutter+%7C+MongoDB+%7C+Python+%7C+TypeScript." />
+</div>
 
 <br/>
 
-<p align="center">
-  <i>⭐️ Thanks for stopping by! Check out my repositories and feel free to reach out.</i>
-</p>
+<div align="center">
+  <a href="mailto:krishna26sep@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d3b3e?style=for-the-badge&logo=gmail&logoColor=2DD4BF"/></a>
+  <a href="https://www.linkedin.com/in/krishna-goyal-799629265/"><img src="https://img.shields.io/badge/LINKEDIN-0d3b3e?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"/></a>
+  <a href="https://krishna-os.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0d3b3e?style=for-the-badge&logo=vercel&logoColor=2DD4BF"/></a>
+  <a href="https://github.com/xxKrishna2609xx"><img src="https://img.shields.io/badge/GITHUB-0d3b3e?style=for-the-badge&logo=github&logoColor=2DD4BF"/></a>
+  <img src="https://komarev.com/ghpvc/?username=xxKrishna2609xx&style=for-the-badge&color=0d3b3e&label=VISITORS&labelColor=050914"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&titleColor=2DD4BF&line1=javascript%2Cjavascript%2C2DD4BF%3Btypescript%2Ctypescript%2C38BDF8%3Breact%2Creact%2C2DD4BF%3Bflutter%2Cflutter%2C38BDF8&line2=python%2Cpython%2C2DD4BF%3Bfastapi%2Cfastapi%2C38BDF8%3Bmongodb%2Cmongodb%2C2DD4BF%3Bdocker%2Cdocker%2C38BDF8&showBorder=false&size=1.7&theme=dark&bg=transparent" width="80%"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,50:0a1f2e,100:050914&height=5&section=header"/>
+</div>
+
+## 🧠 System Profile
+
+<div align="center">
+
+💻 **Web Developer Intern** @ Right Ads Digital
+🏢 Engineered full-stack **Business Listing Website** & **Android Application**
+🌐 **Interactive Portfolio OS** live at [krishna-os.vercel.app](https://krishna-os.vercel.app/)
+⚡ Tech focus: **React, FastAPI, Flutter/Dart, Python, MongoDB & Cloudflare R2**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="140"><h2>15+</h2><sub>Repos Shipped</sub></td>
+<td align="center" width="140"><h2>1</h2><sub>Industry Intern Role</sub></td>
+<td align="center" width="140"><h2>2</h2><sub>Production Apps</sub></td>
+<td align="center" width="140"><h2>4+</h2><sub>Core Stacks</sub></td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,50:0a1f2e,100:050914&height=5&section=header"/>
+</div>
+
+## ⚡ Flagship Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏢 <a href="https://github.com/xxKrishna2609xx/Business-Listing-Website">Business Listing Website</a></h3>
+<b>Full-stack local business listing platform</b><br/><br/>
+Modern full-stack local business discovery platform built during internship at Right Ads Digital. Fast search, business onboarding, media hosting, and responsive design.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-0d3b3e?style=flat-square&logo=react&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/FastAPI-0d3b3e?style=flat-square&logo=fastapi&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/MongoDB-0d3b3e?style=flat-square&logo=mongodb&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/●_LIVE-134e4a?style=flat-square&logoColor=2DD4BF"/>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📱 <a href="https://github.com/xxKrishna2609xx/Android-App">Business Listing Android App</a></h3>
+<b>Companion cross-platform Android mobile app</b><br/><br/>
+Native-feel mobile application designed for local business discovery & management, seamlessly synced with the website API architecture.
+<br/><br/>
+<img src="https://img.shields.io/badge/Dart-0d3b3e?style=flat-square&logo=dart&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/Flutter-0d3b3e?style=flat-square&logo=flutter&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/●_LIVE-134e4a?style=flat-square&logoColor=2DD4BF"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌤️ <a href="https://github.com/xxKrishna2609xx/PyClima-">PyClima Analytics</a></h3>
+<b>Climate data analytics dashboard</b><br/><br/>
+Climate analytics platform for NetCDF datasets featuring geospatial heatmaps, trend detection, hotspot highlights, and climate model comparison tools.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-0d3b3e?style=flat-square&logo=python&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/Data_Analytics-0d3b3e?style=flat-square&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/✓_SHIPPED-134e4a?style=flat-square&logoColor=2DD4BF"/>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📄 <a href="https://github.com/xxKrishna2609xx/Ai-Resume">AI Resume Platform</a></h3>
+<b>Smart AI-assisted resume builder</b><br/><br/>
+Full-stack application offering intelligent resume parsing, custom section styling, real-time preview, and export capabilities.
+<br/><br/>
+<img src="https://img.shields.io/badge/TypeScript-0d3b3e?style=flat-square&logo=typescript&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/React-0d3b3e?style=flat-square&logo=react&logoColor=2DD4BF"/>
+<img src="https://img.shields.io/badge/●_LIVE-134e4a?style=flat-square&logoColor=2DD4BF"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/xxKrishna2609xx?tab=repositories"><img src="https://img.shields.io/badge/SEE_ALL_REPOSITORIES_→-0d3b3e?style=for-the-badge&logoColor=2DD4BF&color=134e4a"/></a>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,50:0a1f2e,100:050914&height=5&section=header"/>
+</div>
+
+## 🛠️ The Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css&theme=dark&perline=6"/>
+
+### Web · Frontend · Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&theme=dark&perline=4"/>
+
+### Backend · Databases · Cloud
+<img src="https://skillicons.dev/icons?i=fastapi,express,nodejs,mongodb,postgres,cloudflare,docker,git,github,vercel&theme=dark&perline=5"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,50:0a1f2e,100:050914&height=5&section=header"/>
+</div>
+
+## 📊 Live Metrics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xxKrishna2609xx&show_icons=true&hide_border=true&bg_color=050914&title_color=2DD4BF&icon_color=38BDF8&text_color=94a3b8&count_private=true&include_all_commits=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxKrishna2609xx&layout=compact&hide_border=true&bg_color=050914&title_color=2DD4BF&text_color=94a3b8&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxKrishna2609xx&hide_border=true&background=050914&ring=2DD4BF&fire=38BDF8&currStreakLabel=2DD4BF&sideLabels=94a3b8&dates=64748b"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xxKrishna2609xx&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxKrishna2609xx&hide_border=true&bg_color=050914&color=2DD4BF&line=2DD4BF&point=e6fffa&area=true&area_color=134e4a"/>
+</div>
+
+<div align="center">
+  <sub>↓ contribution snake graph crawling live ↓</sub><br/><br/>
+  <img src="https://raw.githubusercontent.com/xxKrishna2609xx/xxKrishna2609xx/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,50:0a1f2e,100:050914&height=5&section=header"/>
+</div>
+
+## 💼 What I'm Hunting For
+
+<div align="center">
+
+| 🎯 Track | What You Get |
+|:---|:---|
+| 💻 **Full-Stack / Web Internships** | Production-ready web applications & clean API integration |
+| 📱 **Mobile Development Roles** | High-performance Flutter / Android cross-platform builds |
+| 🚀 **Freelance Projects** | Complete full-stack web platforms from design to deployment |
+| 🏢 **Full-Time Software Engineering** | High ownership, fast execution, clean maintainable code |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&lines=Looking+for+a+driven+Web+%26+Mobile+Developer%3F+Let's+connect!" />
+
+<br/>
+
+<a href="mailto:krishna26sep@gmail.com"><img src="https://img.shields.io/badge/📧_krishna26sep@gmail.com-0d3b3e?style=for-the-badge&logoColor=2DD4BF"/></a>
+<a href="https://www.linkedin.com/in/krishna-goyal-799629265/"><img src="https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0d3b3e?style=for-the-badge&logoColor=2DD4BF"/></a>
+<a href="https://krishna-os.vercel.app/"><img src="https://img.shields.io/badge/🌐_View_Portfolio-0d3b3e?style=for-the-badge&logoColor=2DD4BF"/></a>
+
+<br/><br/>
+
+<i>"Build once. Ship everywhere." · "Code is craft. Scalability is performance."</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,35:0a1f2e,70:0d3b3e,100:0a1f2e&height=130&section=footer&animation=fadeIn"/>
