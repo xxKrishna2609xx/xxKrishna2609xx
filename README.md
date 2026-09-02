@@ -30,9 +30,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&titleColor=38BDF8&line1=javascript%2Cjavascript%2C38BDF8%3Btypescript%2Ctypescript%2C64748B%3Breact%2Creact%2C38BDF8%3Bflutter%2Cflutter%2C64748B&line2=python%2Cpython%2C38BDF8%3Bfastapi%2Cfastapi%2C64748B%3Bmongodb%2Cmongodb%2C38BDF8%3Bdocker%2Cdocker%2C64748B&showBorder=false&size=1.7&theme=dark&bg=transparent" width="80%"/>
-</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=5&section=header"/>
@@ -159,12 +156,12 @@ Full-stack application offering intelligent resume parsing, custom section styli
 ## 📊 Live Metrics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xxKrishna2609xx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=64748B&text_color=94a3b8&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxKrishna2609xx&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94a3b8&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xxKrishna2609xx&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=F8FAFC&count_private=true&include_all_commits=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxKrishna2609xx&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=F8FAFC&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxKrishna2609xx&hide_border=true&background=0D1117&ring=38BDF8&fire=64748B&currStreakLabel=38BDF8&sideLabels=94a3b8&dates=64748b"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxKrishna2609xx&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8"/>
 </div>
 
 <div align="center">
@@ -172,7 +169,7 @@ Full-stack application offering intelligent resume parsing, custom section styli
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxKrishna2609xx&hide_border=true&bg_color=0D1117&color=38BDF8&line=64748B&point=f8fafc&area=true&area_color=1F293D"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxKrishna2609xx&hide_border=true&bg_color=00000000&color=38BDF8&line=38BDF8&point=F8FAFC&area=true&area_color=1E293B"/>
 </div>
 
 <div align="center">
