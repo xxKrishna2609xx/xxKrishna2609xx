@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:161B22,70:1F293D,100:0D1117&height=260&section=header&text=KRISHNA%20GOYAL&fontSize=50&fontColor=F8FAFC&animation=fadeIn&fontAlignY=42&desc=Web%20Developer%20Intern%20%E2%80%A2%20Full%20Stack%20%26%20Mobile%20Dev%20%E2%80%A2%20Building%20for%20Production&descAlignY=65&descSize=16&descColor=38BDF8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1E293B,70:0F172A,100:0D1117&height=240&section=header&text=KRISHNA%20GOYAL&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20Intern%20%7C%20Full-Stack%20and%20AI%20Engineer&descAlignY=64&descSize=16&descColor=38BDF8"/>
 </div>
 
 <div align="center">
 
 ```
 [BOOT] initializing krishna_goyal.model...
-[INFO]  role        : Web Developer Intern @ Right Ads Digital
+[INFO]  role        : AI Engineer / Web Developer Intern @ Right Ads Digital
 [INFO]  expertise   : Full-Stack Web Development & Cross-Platform Android Apps
 [INFO]  stack       : React | FastAPI | Dart (Flutter) | MongoDB | Cloudflare R2
-[STATUS] shipping production systems. business listings & mobile apps synced.
+[STATUS] shipping production systems.
 ```
 
 </div>
