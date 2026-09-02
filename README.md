@@ -156,21 +156,10 @@ Full-stack application offering intelligent resume parsing, custom section styli
 ## 📊 Live Metrics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xxKrishna2609xx&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=F8FAFC&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxKrishna2609xx&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=F8FAFC&langs_count=8"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxKrishna2609xx&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xxKrishna2609xx&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxKrishna2609xx&hide_border=true&bg_color=00000000&color=38BDF8&line=38BDF8&point=F8FAFC&area=true&area_color=1E293B"/>
-</div>
+<br/>
 
 <div align="center">
   <sub>↓ contribution snake graph crawling live ↓</sub><br/><br/>
