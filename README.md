@@ -23,6 +23,7 @@
 <div align="center">
   <a href="mailto:krishna26sep@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1E293B?style=for-the-badge&logo=gmail&logoColor=38BDF8"/></a>
   <a href="https://www.linkedin.com/in/krishna-goyal-799629265/"><img src="https://img.shields.io/badge/LINKEDIN-1E293B?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
+  <a href="https://leetcode.com/u/Krishna2609/"><img src="https://img.shields.io/badge/LEETCODE-1E293B?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
   <a href="https://krishna-os.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1E293B?style=for-the-badge&logo=vercel&logoColor=F8FAFC"/></a>
   <a href="https://github.com/xxKrishna2609xx"><img src="https://img.shields.io/badge/GITHUB-1E293B?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
   <img src="https://komarev.com/ghpvc/?username=xxKrishna2609xx&style=for-the-badge&color=1E293B&label=VISITORS&labelColor=0D1117"/>
@@ -197,6 +198,7 @@ Full-stack application offering intelligent resume parsing, custom section styli
 
 <a href="mailto:krishna26sep@gmail.com"><img src="https://img.shields.io/badge/📧_krishna26sep@gmail.com-1E293B?style=for-the-badge&logoColor=38BDF8"/></a>
 <a href="https://www.linkedin.com/in/krishna-goyal-799629265/"><img src="https://img.shields.io/badge/🔗_Connect_on_LinkedIn-1E293B?style=for-the-badge&logoColor=38BDF8"/></a>
+<a href="https://leetcode.com/u/Krishna2609/"><img src="https://img.shields.io/badge/🧩_LeetCode_Profile-1E293B?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
 <a href="https://krishna-os.vercel.app/"><img src="https://img.shields.io/badge/🌐_View_Portfolio-1E293B?style=for-the-badge&logoColor=F8FAFC"/></a>
 
 <br/><br/>
