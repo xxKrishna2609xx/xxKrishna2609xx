@@ -159,6 +159,10 @@ Full-stack application offering intelligent resume parsing, custom section styli
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxKrishna2609xx&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8"/>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/xxKrishna2609xx/xxKrishna2609xx/main/assets/pixel-car.svg" width="100%" alt="Retro Pixel Racing Car"/>
+</div>
+
 <br/>
 
 <div align="center">
@@ -177,7 +181,7 @@ Full-stack application offering intelligent resume parsing, custom section styli
 | 🎯 Track | What You Get |
 |:---|:---|
 | 💻 **Full-Stack / Web Internships** | Production-ready web applications & clean API integration |
-| 📱 **Mobile Development Roles** | High-performance Flutter / Android cross-platform builds |
+| 🤖 **AI Engineer Roles** | Production-ready LLM pipelines, RAG systems, and AI integration |
 | 🚀 **Freelance Projects** | Complete full-stack web platforms from design to deployment |
 | 🏢 **Full-Time Software Engineering** | High ownership, fast execution, clean maintainable code |
 
@@ -187,7 +191,7 @@ Full-stack application offering intelligent resume parsing, custom section styli
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Looking+for+a+driven+Web+%26+Mobile+Developer%3F+Let's+connect!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Looking+for+a+driven+Web+%26+AI+Developer%3F+Let's+connect!" />
 
 <br/>
 
